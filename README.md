@@ -1,4 +1,3 @@
-# PRODIGY_CS_03
 # Password Complexity Checker
 
 A simple Python tool that checks the strength of a password based on security criteria like length, uppercase letters, lowercase letters, numbers, and special characters and it provides feedback to users on the password's stregnth.
